@@ -22,7 +22,7 @@ I build production-ready software focusing on multi-agent AI orchestration, LLM 
 
 ### 🚀 Featured Architecture
 
-- **Shik-Shak EdTech Ecosystem:** A cross-platform application supporting JEE, NEET, and UPSC prep. Features AI-powered question generation via Groq LLM and real-time battle rooms. Architected across independent API, web, and mobile repositories.
+- **Shik-Shak EdTech Ecosystem:** A cross-platform application supporting JEE and NEET. Features AI-powered question generation via Groq LLM and real-time battle rooms. Architected across independent API, web, and mobile repositories.
 - **Swarm AI Agent (Travily):** A multi-agent AI system accessible through mobile app, web, and discord-bot interfaces, all backed by one shared API. A super-agent delegates tasks across specialized micro-agents, with Tavily integration for real-time search.
 - **Client Billing & Accounting System:** A custom billing and invoicing platform delivered for a private client engagement. Core implementation is private per client agreement; a public placeholder repo documents the project.
 - **Medicine Scanner API & UI:** A computer vision pipeline utilizing OpenCV for OCR and image processing, designed with a clean separation of concerns between backend APIs and the client interface.
