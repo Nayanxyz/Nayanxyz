@@ -28,6 +28,6 @@ I build production-ready software focusing on multi-agent AI orchestration, LLM 
 - **Medicine Scanner API & UI:** A computer vision pipeline utilizing OpenCV for OCR and image processing, designed with a clean separation of concerns between backend APIs and the client interface.
 
 ### 🔗 Connect
-*   [Portfolio & Architecture Deep Dives](htpps://nayanxyz-portfolio.vercel.app)
+*   [Portfolio & Architecture Deep Dives](https://nayanxyz-portfolio.vercel.app)
 *   [LinkedIn](https://linkedin.com/in/nayanxyz)
 *   [Email](mailto:choudharyji527@gmail.com)
