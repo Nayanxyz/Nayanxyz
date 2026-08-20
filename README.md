@@ -8,12 +8,15 @@ I build production-ready software focusing on multi-agent AI orchestration, LLM 
 *   **Full-Stack Ecosystems:** Building modular, microservices-style platforms split across dedicated API, web UI, and mobile repositories.
 *   **Production Deployment:** Managing the lifecycle of applications from local model testing and API integration to live web and mobile environments.
 
-### 🛠️ Core Stack
-*   **Languages:** Python, TypeScript, JavaScript, C++, SQL
-*   **AI/ML:** LangChain, Multi-Agent Swarm, RAG, TensorFlow, OpenCV
-*   **Backend & APIs:** FastAPI, Flask, REST APIs, WebSockets, AsyncIO
-*   **Frontend & Mobile:** React, React Native (Expo), Streamlit
-*   **Infrastructure:** PostgreSQL, Redis, Supabase, Docker, Git
+### 🧰 Core Stack
+
+- **Languages:** Python, TypeScript, JavaScript, C++, SQL, HTML/CSS
+- **AI/ML:** TensorFlow, PyTorch, scikit-learn, Keras, Hugging Face, OpenCV, LangChain, Multi-Agent Swarm, RAG
+- **LLM APIs:** OpenAI API, Gemini API, Groq API
+- **Backend & APIs:** FastAPI, Flask, Django, REST APIs, WebSockets, AsyncIO, JWT Auth
+- **Frontend & Mobile:** React, TypeScript, React Native (Expo), Streamlit, Gradio, PyQt6, Gatsby (JAMstack)
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, Supabase, Redis
+- **Infrastructure & Tools:** Docker, GitHub Actions, Git, Linux, Jupyter, Selenium
 
 ### 🚀 Featured Architecture
 *   **Shik-Shak EdTech Ecosystem:** A cross-platform application supporting JEE, NEET, and UPSC prep. Features AI-powered question generation via Groq LLM and real-time battle rooms. Architected across independent API, web, and mobile repositories.
