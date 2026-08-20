@@ -4,9 +4,11 @@
 I build production-ready software focusing on multi-agent AI orchestration, LLM integration, and scalable full-stack architectures. I bypass theoretical constraints by directly engineering, deploying, and maintaining end-to-end systems.
 
 ### ⚙️ Engineering Focus
-*   **AI Agent Architecture:** Designing and orchestrating multi-agent swarm systems (super-agent coordination, micro-agent delegation) using LLM APIs (OpenAI, Gemini, Groq).
-*   **Full-Stack Ecosystems:** Building modular, microservices-style platforms split across dedicated API, web UI, and mobile repositories.
-*   **Production Deployment:** Managing the lifecycle of applications from local model testing and API integration to live web and mobile environments.
+
+- **AI Agent Architecture:** Designing and orchestrating multi-agent swarm systems (super-agent coordination, micro-agent delegation) using LLM APIs (OpenAI, Gemini, Groq).
+- **Full-Stack Ecosystems:** Building modular, microservices-style platforms split across dedicated API, web UI, and mobile repositories.
+- **Client & Production Delivery:** Delivered a custom billing and accounting system for a private client engagement — built and maintained under a private repository per client agreement.
+- **Production Deployment:** Managing the lifecycle of applications from local model testing and API integration to live web and mobile environments.
 
 ### 🧰 Core Stack
 
